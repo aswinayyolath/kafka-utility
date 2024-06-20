@@ -10,7 +10,7 @@ Clone the Repository:
 
 ```bash
 git clone https://github.com/aswinayyolath/kafka-utility.git
-cd kafka-utility-script
+cd kafka-utility
 ```
 
 ## Update the Script
